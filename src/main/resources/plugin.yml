@@ -1,0 +1,8 @@
+name: SimpleElevators
+version: "${project.version}"
+main: me.lebogo.simpleelevators.SimpleElevators
+api-version: 1.20
+prefix: SE
+authors: [LeBogo]
+description: Adds Elevators to your Server that players can create and use.
+website: https://lebogo.me
